@@ -96,7 +96,11 @@ public class DinhDaiLoc extends Developer {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 AI & Graph-based AML</h3>
-      <br/>
+      <p align="center">
+        <a href="https://github.com/dinhdailoc79/AI-and-Graph-based-Approaches-for-Anti-Money-Laundering-in-Financial-Networks">
+          <img src="https://img.shields.io/badge/🔗_Source_Code-F97316?style=for-the-badge" alt="Source Code" />
+        </a>
+      </p>
       <p>Phát triển hệ thống phòng chống rửa tiền (<b>AML</b>) dựa trên Blockchain; nghiên cứu <b>Graph Machine Learning</b> và soạn thảo tài liệu kỹ thuật LaTeX.</p>
       <p><b>🔧 Tech:</b> Python, Graph Neural Networks, LaTeX</p>
       <p><b>👤 Role:</b> Data Analyst & Technical Writer</p>
