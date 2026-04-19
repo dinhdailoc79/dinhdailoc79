@@ -1,4 +1,4 @@
-Dưới đây là mã nguồn toàn bộ trang cá nhân GitHub đã được cập nhật dựa trên thông tin từ CV của bạn và thay đổi chức danh thành "AI Research Intern". [cite_start]Nội dung được trình bày chuyên nghiệp, tập trung vào các dự án nghiên cứu và kỹ năng kỹ thuật[cite: 6, 26, 31, 36].
+[cite_start]Nội dung được trình bày chuyên nghiệp, tập trung vào các dự án nghiên cứu và kỹ năng kỹ thuật[cite: 6, 26, 31, 36].
 
 ````markdown
 <img src="https://github.com/user-attachments/assets/0732eb5d-3bb1-4cf7-a2ba-a32797bc0c1c" width="150" height="150" alt="Dinh Dai Loc">
