@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/dinhdailoc79.png" width="150" height="150" style="border-radius: 50%;" alt="Dinh Dai Loc" />
+  <img width="1919" height="650" alt="banner" src="https://github.com/user-attachments/assets/cafe0963-baef-4656-a6ed-badf4a596499" />
 </p>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
