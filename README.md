@@ -26,20 +26,21 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class DinhDaiLoc extends Developer {
-
-    String name        = "Dinh Dai Loc";
-    String university  = "FPT University";
-    String role        = "AI Research Intern";
-    String focus       = "Deep Learning & Medical Imaging";
-
-    String objective   = "Advance the field through impactful research and scholarly articles";
-
-    String[] coreSkills = {
-        "Computer Vision", "CNNs", "Image Preprocessing", "Graph ML"
-    };
-}
+```python
+class DinhDaiLoc:
+    def __init__(self):
+        self.name = "Dinh Dai Loc"
+        self.university = "FPT University"
+        self.role = "AI Research Intern"
+        self.focus = "Deep Learning & Medical Imaging"
+        self.objective = "Advance the field through impactful research and scholarly articles"
+        
+        self.core_skills = [
+            "Computer Vision",
+            "CNNs",
+            "Image Preprocessing",
+            "Graph ML"
+        ]
 ```
 
 - 🔬 Currently researching **Deep Learning** applications in **Medical Imaging**
@@ -55,7 +56,6 @@ public class DinhDaiLoc extends Developer {
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
@@ -129,18 +129,10 @@ public class DinhDaiLoc extends Developer {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinhdailoc79&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dinhdailoc79/dinhdailoc79/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://leetcode-stats-card.vercel.app/?username=dinhdailoc79&theme=nord" alt="LeetCode Stats" />
 </p>
 
 ---
