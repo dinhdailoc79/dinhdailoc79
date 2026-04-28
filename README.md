@@ -132,7 +132,9 @@ class DinhDaiLoc:
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/?username=dinhdailoc79&theme=nord" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/dinhdailoc79/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
 
 ---
